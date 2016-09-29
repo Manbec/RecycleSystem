@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "512103142855",
+    "firebase_url": "https://rcycl-ddbed.firebaseio.com",
+    "project_id": "rcycl-ddbed",
+    "storage_bucket": "rcycl-ddbed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512103142855:android:d613eaea1e5f0f9f",
+        "android_client_info": {
+          "package_name": "com.socialrecycle.socialrecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512103142855-o9u1kg1nntt0qu1r1ob88vq7rti80et6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjHBufQ7VevNggvJs7NJ37YJnXdrLro8w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
